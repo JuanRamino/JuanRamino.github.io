@@ -29,7 +29,7 @@
 - React
 - Redux
 
----
+___
 
 #### __WebImage Editor__
 
@@ -37,7 +37,7 @@
 
 - JQuery
 
----
+___
 
 #### __Comuni service__
 
@@ -46,7 +46,7 @@
 - NodeJs
 - ExpressJs json api
 
----
+___
 
 #### __Service Worker Flipper__
 
@@ -57,7 +57,7 @@
 - Vanilla Js
 - Service Worker
 
----
+___
 
 #### __RamNotifierBot__
 
@@ -66,7 +66,7 @@
 - NodeJs
 - Telegram bot
 
----
+___
 
 #### __Briscola__
 
@@ -77,4 +77,4 @@
 - React
 - Boardgame.io
 
----
+___
