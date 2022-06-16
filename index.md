@@ -10,7 +10,7 @@
 
 ### Projects
 
-#### Twitter Clone
+#### __Twitter Clone__
 
 ##### Backend
 
@@ -29,20 +29,20 @@
 - React
 - Redux
 
-#### WebImage Editor
+#### __WebImage Editor__
 
 [Demo](http://image-editor.webabile.it/)
 
 - JQuery
 
-#### Comuni service
+#### __Comuni service__
 
 [Source code](https://github.com/JuanRamino/comuni-service.git)
 
 - NodeJs
 - ExpressJs json api
 
-#### Service Worker Flipper
+#### __Service Worker Flipper__
 
 [Source code](https://github.com/JuanRamino/service-worker-flipper.git)
 
@@ -51,14 +51,14 @@
 - Vanilla Js
 - Service Worker
 
-#### RamNotifierBot
+#### __RamNotifierBot__
 
 [Source code](https://github.com/JuanRamino/RamNotifierBot)
 
 - NodeJs
 - Telegram bot
 
-#### Briscola
+#### __Briscola__
 
 [Source code](https://github.com/JuanRamino/briscola)
 
