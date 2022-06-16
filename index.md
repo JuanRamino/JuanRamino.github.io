@@ -2,13 +2,13 @@
 
 ## Agile Web Development
 
-### Contacts
+### Contacts:
 
 - [Github](https://github.com/JuanRamino)
 - [LinkedIn](https://www.linkedin.com/in/juan-ramino-646a80b)
 - [Email](mailto:juan.ramino@gmail.com)
 
-### Projects
+### Projects:
 
 #### __Twitter Clone__
 
@@ -29,11 +29,15 @@
 - React
 - Redux
 
+---
+
 #### __WebImage Editor__
 
 [Demo](http://image-editor.webabile.it/)
 
 - JQuery
+
+---
 
 #### __Comuni service__
 
@@ -41,6 +45,8 @@
 
 - NodeJs
 - ExpressJs json api
+
+---
 
 #### __Service Worker Flipper__
 
@@ -51,12 +57,16 @@
 - Vanilla Js
 - Service Worker
 
+---
+
 #### __RamNotifierBot__
 
 [Source code](https://github.com/JuanRamino/RamNotifierBot)
 
 - NodeJs
 - Telegram bot
+
+---
 
 #### __Briscola__
 
@@ -67,4 +77,4 @@
 - React
 - Boardgame.io
 
-
+---
